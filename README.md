@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Mikołaj 👋
+
+<a href="https://www.linkedin.com/in/mikolaj-bachorz">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
+
+I'm a software developer with experience in a wide variety of web technologies.
+
+
+
 
 <!--
 **Mikbac/mikbac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
