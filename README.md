@@ -15,8 +15,8 @@ Hi there, I'm Mikołaj 👋
   </a>
 </p>
 
-#### I'm a software developer with experience in a wide variety of web technologies.
-#### Programming languages:
+### I'm a software developer with experience in a wide variety of web technologies.
+### Programming languages:
 
 <p align='center'>
   <a>
