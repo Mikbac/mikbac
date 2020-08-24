@@ -15,9 +15,13 @@ Hi there, I'm Mikołaj 👋
   </a>
 </p>
 
-### I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies are Java and Angular. In my spare time, I am passionate about software analysis, the Scala programming language, and new technologies. Feel free to look at my GitHub profile and tech stack.
+<p>
+I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies are Java and Angular. In my spare time, I am passionate about software analysis, the Scala programming language, and new technologies. Feel free to look at my GitHub profile and tech stack.
+</p>
 
-### Programming languages:
+<h3 align='center'>
+  Programming languages:
+</h3>
 
 <p align='center'>
   <a>
@@ -50,7 +54,10 @@ Hi there, I'm Mikołaj 👋
 </p>
 
 
-### Databases:
+<h3 align='center'>
+  Databases:
+</h3>
+
 <p align='center'>  
   <a>
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height=25>
@@ -68,7 +75,10 @@ Hi there, I'm Mikołaj 👋
   </a>
 </p>
 
-### Frameworks:
+<h3 align='center'>
+  Frameworks:
+</h3>
+
 <p align='center'>
   <a>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" height=25>
@@ -81,7 +91,10 @@ Hi there, I'm Mikołaj 👋
   </a>   
 </p>
 
-### Development tools:
+<h3 align='center'>
+  Development tools:
+</h3>
+
 <p align='center'>  
   <a>
     <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" height=25>
