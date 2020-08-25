@@ -18,7 +18,7 @@ Hi there, I'm Mikołaj 👋
 ### I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies are Java and Angular. In my spare time, I am passionate about software analysis, the Scala programming language, and new technologies. Feel free to look at my GitHub profile and tech stack.
 
 
-<table align="center" style="margin: 0px auto;">
+<table align="center">
     <tr>
         <th>Programming languages</th>
         <th>Databases</th>
@@ -84,7 +84,7 @@ Hi there, I'm Mikołaj 👋
 </table>
 
 
-<table align="center" style="margin: 0px auto;">
+<table align="center">
     <tr>
         <th>Frameworks</th>
         <th>Development tools</th>
@@ -132,6 +132,10 @@ Hi there, I'm Mikołaj 👋
                     <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"
                          height=25>
                 </a>
+                <a>
+                    <img src="https://img.shields.io/badge/gitkraken-%23179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white"
+                         height=25>
+                </a>              
             </div>
             <div align='center'>
                 <a>
@@ -150,6 +154,12 @@ Hi there, I'm Mikołaj 👋
                     <img src="https://img.shields.io/badge/gradle-%2302303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"
                          height=25>
                 </a>
+            </div>
+            <div align='center'>
+                <a>
+                    <img src="https://img.shields.io/badge/astah-%2312519b.svg?&style=for-the-badge&logo=astah&logoColor=white"
+                         height=25>
+                </a>              
             </div>
         </td>
     </tr>
