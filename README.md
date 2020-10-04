@@ -85,6 +85,16 @@ Hi there, I'm Mikołaj 👋
                          height=25>
                     <img src="https://img.shields.io/badge/hibernate-%23bbae79.svg?&style=for-the-badge&logo=hibernate&logoColor=white"
                          height=25>
+                </div>
+            </div>
+            <div align='center'>
+                <div>
+                    <img src="https://img.shields.io/badge/play%20pramework-%2392d13d.svg?&style=for-the-badge&logo=play%20pramework&logoColor=white"
+                         height=25>
+                </div>
+            </div>
+            <div align='center'>
+                <div>
                     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"
                          height=25>
                 </div>
