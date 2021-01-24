@@ -63,7 +63,7 @@ Hi there, I'm Mikołaj 👋
             </div>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"
+                    <img src="https://img.shields.io/badge/firestore-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"
                          height=25>
                 </div>
             </div>
