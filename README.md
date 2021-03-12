@@ -149,6 +149,7 @@ Hi there, I'm Mikołaj 👋
     </tr>
 </table>
 
-
-
-### And many other... 😄
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikbac)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mikbac&locale=en&theme=vue)
+-->
