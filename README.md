@@ -13,6 +13,9 @@ Hi there, I'm Mikołaj 👋
   <a href="https://google.qwiklabs.com/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
     <img src="https://img.shields.io/badge/qwiklabs-%233680e3.svg?&style=for-the-badge&logo=qwiklabs&logoColor=%233680e3&labelColor=%23F5CD0E" height=25>
   </a>
+  <a href="https://www.scrum.org/user/881024">
+    <img src="https://img.shields.io/badge/scrum.org-%23415870.svg?&style=for-the-badge&labelColor=%23F5CD0E" height=25>
+  </a>
 <!--   <a href="https://www.coursera.org/user/e0b90ae41e1e1a9dcde56878ff2bccdf">
     <img src="https://img.shields.io/badge/coursera-%232A73CC.svg?&style=for-the-badge&logo=coursera&logoColor=white" height=25>
   </a> -->
