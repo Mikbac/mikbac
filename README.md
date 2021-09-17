@@ -24,7 +24,7 @@ Hi there, I'm Mikołaj 👋
 ### I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies are Java and Angular. In my spare time, I am passionate about software analysis, the Scala programming language, and new technologies. Feel free to look at my GitHub profile and tech stack.
 
 
-<table align="center" style="margin-left: 0; margin-right: 0; width: 100%; display: table;">
+<table align="center" style="margin-left: 0; margin-right: 0; width: 100% !important; display: table !important;">
     <tr>
         <th>Programming languages</th>
         <th>Databases</th>
