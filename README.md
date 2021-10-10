@@ -144,6 +144,12 @@ Hi there, I'm Mikołaj 👋
                          height=25>
                 </div>  
             </div>
+            <div align='center'>
+                <div>
+                    <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"
+                         height=25>
+                </div>  
+            </div>
         </td>
     </tr>
 </table>
