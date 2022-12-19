@@ -60,8 +60,6 @@ Hi there, I'm Mikołaj 👋
                          height=25>
                     <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"
                          height=25>
-                    <img src="https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
-                         height=25>
                 </div>
             </div>
             <div align='center'>
