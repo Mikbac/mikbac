@@ -1,4 +1,3 @@
-
 <h1 align='center'>
 Hi there, I'm Mikołaj 👋
 </h1>
@@ -27,7 +26,9 @@ Hi there, I'm Mikołaj 👋
   </a> -->
 </p>
 
-**I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies are Java and Angular. In my spare time, I am passionate about web application security, the Scala programming language, and new technologies. Feel free to look at my GitHub profile and tech stack.**
+**I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies
+are Java and Angular. In my spare time, I am passionate about web application security, cloud-native architecture and
+modern technologies. Feel free to look at my GitHub profile and tech stack.**
 
 
 <table align="center" style="margin-left: 0; margin-right: 0; width: 100% !important; display: table !important;">
@@ -39,9 +40,9 @@ Hi there, I'm Mikołaj 👋
         <td>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"
+                    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"
                          height=25>
-                    <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"
+                    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"
                          height=25>
                     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"
                          height=25>
@@ -49,6 +50,7 @@ Hi there, I'm Mikołaj 👋
                          height=25>
                     <!--<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"
                          height=25>-->
+                </div>
             </div>
             <div align='center'>
                 <div>
