@@ -3,12 +3,14 @@ Hi there, I'm Mikołaj 👋
 </h1>
 
 <p align='center'>
+ <span style="white-space: nowrap;">
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
   <a href="https://www.scrum.org/user/881024">
     <img src="https://img.shields.io/badge/scrum.org-%23415870.svg?&style=for-the-badge&logo=scrum.org&labelColor=%23F5CD0E" height=25>
   </a>
+</span>
 </p>
 
 <p align='center'>
