@@ -5,10 +5,10 @@ Hi there, I'm Mikołaj 👋
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
-    <svg xmlns="http://www.w3.org/2000/svg" width="91" height="28" role="img" aria-label="LINKEDIN"><title>LINKEDIN</title><g shape-rendering="crispEdges"><rect width="91" height="28" fill="#0077b5"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="455" y="175" textLength="670" font-weight="bold">LINKEDIN</text></g></svg>
-  </a>
+    ![linkedin.svg](img/linkedin.svg)
+</a>
   <a href="https://www.scrum.org/user/881024">
-    <svg xmlns="http://www.w3.org/2000/svg" width="102.25" height="28" role="img" aria-label="SCRUM.ORG"><title>SCRUM.ORG</title><g shape-rendering="crispEdges"><rect width="102.25" height="28" fill="#415870"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="511.25" y="175" textLength="782.5" font-weight="bold">SCRUM.ORG</text></g></svg>
+    ![scrum.svg](img/scrum.svg)
 </a>
 
 </p>
