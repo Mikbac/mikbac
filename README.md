@@ -3,25 +3,24 @@ Hi there, I'm Mikołaj 👋
 </h1>
 
 <p align='center'>
-
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
-    <img src="img/social/linkedin.svg" width="200" height="25">
+    <img src="img/social/linkedin.svg" width="200" height="25" alt="LinkedIn profile">
   </a>
     </br>
   <a href="https://www.scrum.org/user/881024">
-    <img src="img/social/scrum.svg" width="200" height="25">
+    <img src="img/social/scrum.svg" width="200" height="25" alt="Scrum profile">
   </a>
- </br>
+  </br>
   <a href="https://tryhackme.com/p/MikBac">
-    <img src="img/social/thm.svg" width="200" height="25">
+    <img src="img/social/thm.svg" width="200" height="25" alt="TryHackMe profile">
   </a>
- </br>
+  </br>
   <a href="https://github.com/Mikbac">
-    <img src="img/social/github.svg" width="200" height="25">
+    <img src="img/social/github.svg" width="200" height="25" alt="GitHub profile">
   </a>
- </br>
+  </br>
   <a href="https://www.skills.google/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
-    <img src="img/social/gcp_skills.svg" width="200" height="25">
+    <img src="img/social/gcp_skills.svg" width="200" height="25" alt="Google Cloud Skills profile">
   </a>
 </p>
 
@@ -39,30 +38,30 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
         <td>
             <div align='center'>
                 <div>
-                    <img src="img/programming_languages/java.svg" width="125" height=25>
+                    <img src="img/programming_languages/java.svg" width="125" height=25 alt="Java">
                     </br>
-                    <img src="img/programming_languages/go.svg" width="125" height=25>
+                    <img src="img/programming_languages/go.svg" width="125" height=25 alt="Go">
                     </br>
-                    <img src="img/programming_languages/python.svg" width="125" height=25>
+                    <img src="img/programming_languages/python.svg" width="125" height=25 alt="Python">
                     </br>
-                    <img src="img/programming_languages/cpp.svg" width="125" height=25>
+                    <img src="img/programming_languages/cpp.svg" width="125" height=25 alt="C++">
                     </br>
-                    <img src="img/programming_languages/typescript.svg" width="125" height=25>
+                    <img src="img/programming_languages/typescript.svg" width="125" height=25 alt="TypeScript">
                     </br>
-                    <img src="img/programming_languages/javascript.svg" width="125" height=25>
+                    <img src="img/programming_languages/javascript.svg" width="125" height=25 alt="JavaScript">
                 </div>
             </div>
         </td>
         <td>
             <div align='center'>
                 <div>
-                    <img src="img/db/postgresql.svg" width="125" height=25>
+                    <img src="img/db/postgresql.svg" width="125" height=25 alt="PostgreSQL">
                     </br>
-                    <img src="img/db/mysql.svg" width="125" height=25>
+                    <img src="img/db/mysql.svg" width="125" height=25 alt="MySQL">
                     </br>
-                    <img src="img/db/mongo.svg" width="125" height="25">
+                    <img src="img/db/mongo.svg" width="125" height="25" alt="MongoDB">
                     </br>
-                    <img src="img/db/firestore.svg" width="125" height=25>
+                    <img src="img/db/firestore.svg" width="125" height=25 alt="Firestore">
                 </div>
             </div>
         </td>
