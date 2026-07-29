@@ -39,33 +39,30 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
         <td>
             <div align='center'>
                 <div>
-                    <img src="img/pl/java.svg" width="125" height=25>
+                    <img src="img/programming_languages/java.svg" width="125" height=25>
                     </br>
-                    <img src="img/pl/go.svg" width="125" height=25>
+                    <img src="img/programming_languages/go.svg" width="125" height=25>
                     </br>
-                    <img src="img/pl/python.svg" width="125" height=25>
+                    <img src="img/programming_languages/python.svg" width="125" height=25>
                     </br>
-                    <img src="img/pl/cpp.svg" width="125" height=25>
+                    <img src="img/programming_languages/cpp.svg" width="125" height=25>
                     </br>
-                    <img src="img/pl/typescript.svg" width="125" height=25>
+                    <img src="img/programming_languages/typescript.svg" width="125" height=25>
                     </br>
-                    <img src="img/pl/javascript.svg" width="125" height=25>
+                    <img src="img/programming_languages/javascript.svg" width="125" height=25>
                 </div>
             </div>
         </td>
         <td>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"
-                         height=25>
+                    <img src="img/db/postgresql.svg" width="125" height=25>
                     </br>
-                    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"
-                         height=25>
+                    <img src="img/db/mysql.svg" width="125" height=25>
                     </br>
                     <img src="img/db/mongo.svg" width="150" height="25">
                     </br>
-                    <img src="https://img.shields.io/badge/firestore-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"
-                         height=25>
+                    <img src="img/db/firestore.svg" width="125" height=25>
                 </div>
             </div>
         </td>
