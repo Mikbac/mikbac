@@ -2,16 +2,12 @@
 Hi there, I'm Mikołaj 👋
 </h1>
 
-[![Foo](img/linkedin.svg)](https://www.linkedin.com/in/mikolaj-bachorz)
-[![Foo](img/scrum.svg)](https://www.scrum.org/user/881024)
-
-
 <p align='center'>
 
-  <a href="https://www.linkedin.com/in/mikolaj-bachorz">
+  <a href="https://www.linkedin.com/in/mikolaj-bachorz" style="display:inline-flex;">
     <img src="img/linkedin.svg">
   </a>
-  <a href="https://www.scrum.org/user/881024">
+  <a href="https://www.scrum.org/user/881024" style="display:inline-flex;">
     <img src="img/scrum.svg">
   </a>
 
