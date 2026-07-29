@@ -2,31 +2,32 @@
 Hi there, I'm Mikołaj 👋
 </h1>
 
-<p align='center'>
 
-  <a href="https://www.linkedin.com/in/mikolaj-bachorz" style="display:inline-flex;">
-    <img src="img/linkedin.svg">
-  </a>
-  <a href="https://www.scrum.org/user/881024" style="display:inline-flex;">
-    <img src="img/scrum.svg">
+  <a href="https://www.linkedin.com/in/mikolaj-bachorz">
+    <img src="img/linkedin.svg" width="100" height="25">
   </a>
 
-</p>
+  <a href="https://www.scrum.org/user/881024">
+    <img src="img/scrum.svg" width="100" height="25">
+  </a>
 
-<p align='center'>
+
   <a href="https://tryhackme.com/p/MikBac">
     <img src="https://img.shields.io/badge/Try%20Hack%20Me-%23212C42.svg?&style=for-the-badge&logo=tryhackme" height=25>
   </a>
+
   <a href="https://github.com/Mikbac">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
   </a>
+
   <a href="https://google.qwiklabs.com/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
     <img src="https://img.shields.io/badge/qwiklabs-%233680e3.svg?&style=for-the-badge&logo=qwiklabs&logoColor=%233680e3&labelColor=%23F5CD0E" height=25>
   </a>
+
 <!--   <a href="https://www.coursera.org/user/e0b90ae41e1e1a9dcde56878ff2bccdf">
     <img src="https://img.shields.io/badge/coursera-%232A73CC.svg?&style=for-the-badge&logo=coursera&logoColor=white" height=25>
   </a> -->
-</p>
+
 
 **I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies
 are Java and Angular. In my spare time, I am passionate about web application security, cloud-native architecture and
