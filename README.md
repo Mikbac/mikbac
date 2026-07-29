@@ -5,10 +5,10 @@ Hi there, I'm Mikołaj 👋
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
-    <img src="img/linkedin.svg" height=25>
+    <img src="img/linkedin.svg" height=25 style="display: inline">
   </a>
   <a href="https://www.scrum.org/user/881024">
-    <img src="img/scrum.svg" height=25>
+    <img src="img/scrum.svg" height=25 style="display: inline">
   </a>
 
 </p>
