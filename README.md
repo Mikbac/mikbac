@@ -7,19 +7,19 @@ Hi there, I'm Mikołaj 👋
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
     <img src="img/linkedin.svg" width="200" height="25">
   </a>
-
+    </br>
   <a href="https://www.scrum.org/user/881024">
     <img src="img/scrum.svg" width="200" height="25">
   </a>
-
+ </br>
   <a href="https://tryhackme.com/p/MikBac">
     <img src="https://img.shields.io/badge/Try%20Hack%20Me-%23212C42.svg?&style=for-the-badge&logo=tryhackme" width="100" height="25">
   </a>
-
+ </br>
   <a href="https://github.com/Mikbac">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" width="100" height="25">
   </a>
-
+ </br>
   <a href="https://google.qwiklabs.com/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
     <img src="https://img.shields.io/badge/qwiklabs-%233680e3.svg?&style=for-the-badge&logo=qwiklabs&logoColor=%233680e3&labelColor=%23F5CD0E" width="100" height="25">
   </a>
