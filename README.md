@@ -5,29 +5,24 @@ Hi there, I'm Mikołaj 👋
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
-    <img src="img/linkedin.svg" width="200" height="25">
+    <img src="img/social/linkedin.svg" width="200" height="25">
   </a>
     </br>
   <a href="https://www.scrum.org/user/881024">
-    <img src="img/scrum.svg" width="200" height="25">
+    <img src="img/social/scrum.svg" width="200" height="25">
   </a>
  </br>
   <a href="https://tryhackme.com/p/MikBac">
-    <img src="img/thm.svg" width="200" height="25">
+    <img src="img/social/thm.svg" width="200" height="25">
   </a>
  </br>
   <a href="https://github.com/Mikbac">
-    <img src="img/github.svg" width="200" height="25">
+    <img src="img/social/github.svg" width="200" height="25">
   </a>
  </br>
   <a href="https://www.skills.google/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
-    <img src="img/gcp_skills.svg" width="200" height="25">
+    <img src="img/social/gcp_skills.svg" width="200" height="25">
   </a>
-
-<!--   <a href="https://www.coursera.org/user/e0b90ae41e1e1a9dcde56878ff2bccdf">
-    <img src="https://img.shields.io/badge/coursera-%232A73CC.svg?&style=for-the-badge&logo=coursera&logoColor=white" width="100" height="25">
-  </a> -->
-
 </p>
 
 **I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies
@@ -44,45 +39,38 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
         <td>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"
-                         height=25>
-                    <!--<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"
-                         height=25>-->
-                </div>
-            </div>
-            <div align='center'>
-                <div>
-                    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"
-                         height=25>
+                    <img src="img/pl/java.svg" width="125" height=25>
+                    </br>
+                    <img src="img/pl/go.svg" width="125" height=25>
+                    </br>
+                    <img src="img/pl/python.svg" width="125" height=25>
+                    </br>
+                    <img src="img/pl/cpp.svg" width="125" height=25>
+                    </br>
+                    <img src="img/pl/typescript.svg" width="125" height=25>
+                    </br>
+                    <img src="img/pl/javascript.svg" width="125" height=25>
                 </div>
             </div>
         </td>
         <td>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"
-                         height=25>
                     <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"
                          height=25>
-                </div>
-            </div>
-            <div align='center'>
-                <div>
+                    </br>
+                    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"
+                         height=25>
+                    </br>
+                    <img src="img/db/mongo.svg" width="150" height="25">
+                    </br>
                     <img src="https://img.shields.io/badge/firestore-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"
                          height=25>
                 </div>
             </div>
         </td>
     </tr>
-    <tr>
+<!--    <tr>
         <th>Frameworks</th>
         <th>Development tools</th>
     </tr>
@@ -92,18 +80,13 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
                 <div>
                     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"
                          height=25>
+</br>
                     <img src="https://img.shields.io/badge/hibernate-%23bbae79.svg?&style=for-the-badge&logo=hibernate&logoColor=white"
                          height=25>
-                </div>
-            </div>
-            <div align='center'>
-                <div>
+</br>
                     <img src="https://img.shields.io/badge/play%20pramework-%2392d13d.svg?&style=for-the-badge&logo=play%20pramework&logoColor=white"
                          height=25>
-                </div>
-            </div>
-            <div align='center'>
-                <div>
+</br>
                     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"
                          height=25>
                 </div>
@@ -161,7 +144,7 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
                 </div>  
             </div>
         </td>
-    </tr>
+    </tr>-->
 </table>
 
 <!--
