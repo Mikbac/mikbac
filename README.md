@@ -1,33 +1,32 @@
-
 <h1 align='center'>
 Hi there, I'm Mikołaj 👋
 </h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/mikolaj-bachorz">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    <img src="img/social/linkedin.svg" width="200" height="25" alt="LinkedIn profile">
   </a>
+    <br>
   <a href="https://www.scrum.org/user/881024">
-    <img src="https://img.shields.io/badge/scrum.org-%23415870.svg?&style=for-the-badge&logo=scrum.org&labelColor=%23F5CD0E" height=25>
+    <img src="img/social/scrum.svg" width="200" height="25" alt="Scrum profile">
   </a>
-</p>
-
-<p align='center'>
+  <br>
   <a href="https://tryhackme.com/p/MikBac">
-    <img src="https://img.shields.io/badge/Try%20Hack%20Me-%23212C42.svg?&style=for-the-badge&logo=tryhackme" height=25>
+    <img src="img/social/thm.svg" width="200" height="25" alt="TryHackMe profile">
   </a>
+  <br>
   <a href="https://github.com/Mikbac">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
+    <img src="img/social/github.svg" width="200" height="25" alt="GitHub profile">
   </a>
-  <a href="https://google.qwiklabs.com/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
-    <img src="https://img.shields.io/badge/qwiklabs-%233680e3.svg?&style=for-the-badge&logo=qwiklabs&logoColor=%233680e3&labelColor=%23F5CD0E" height=25>
+  <br>
+  <a href="https://www.skills.google/public_profiles/1d03e1b4-5291-4f36-b462-a4c6882510ab">
+    <img src="img/social/gcp_skills.svg" width="200" height="25" alt="Google Cloud Skills profile">
   </a>
-<!--   <a href="https://www.coursera.org/user/e0b90ae41e1e1a9dcde56878ff2bccdf">
-    <img src="https://img.shields.io/badge/coursera-%232A73CC.svg?&style=for-the-badge&logo=coursera&logoColor=white" height=25>
-  </a> -->
 </p>
 
-**I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies are Java and Angular. In my spare time, I am passionate about web application security, the Scala programming language, and new technologies. Feel free to look at my GitHub profile and tech stack.**
+**I'm a software developer with experience in a wide variety of web technologies. Especially my favorite technologies
+are Java and Angular. In my spare time, I am passionate about web application security, cloud-native architecture and
+modern technologies. Feel free to look at my GitHub profile and tech stack.**
 
 
 <table align="center" style="margin-left: 0; margin-right: 0; width: 100% !important; display: table !important;">
@@ -39,44 +38,35 @@ Hi there, I'm Mikołaj 👋
         <td>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"
-                         height=25>
-                    <!--<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"
-                         height=25>-->
-            </div>
-            <div align='center'>
-                <div>
-                    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"
-                         height=25>
+                    <img src="img/programming_languages/java.svg" width="125" height=25 alt="Java">
+                    <br>
+                    <img src="img/programming_languages/go.svg" width="125" height=25 alt="Go">
+                    <br>
+                    <img src="img/programming_languages/python.svg" width="125" height=25 alt="Python">
+                    <br>
+                    <img src="img/programming_languages/cpp.svg" width="125" height=25 alt="C++">
+                    <br>
+                    <img src="img/programming_languages/typescript.svg" width="125" height=25 alt="TypeScript">
+                    <br>
+                    <img src="img/programming_languages/javascript.svg" width="125" height=25 alt="JavaScript">
                 </div>
             </div>
         </td>
         <td>
             <div align='center'>
                 <div>
-                    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"
-                         height=25>
-                    <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"
-                         height=25>
-                </div>
-            </div>
-            <div align='center'>
-                <div>
-                    <img src="https://img.shields.io/badge/firestore-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"
-                         height=25>
+                    <img src="img/db/postgresql.svg" width="125" height=25 alt="PostgreSQL">
+                    <br>
+                    <img src="img/db/mysql.svg" width="125" height=25 alt="MySQL">
+                    <br>
+                    <img src="img/db/mongo.svg" width="125" height="25" alt="MongoDB">
+                    <br>
+                    <img src="img/db/firestore.svg" width="125" height=25 alt="Firestore">
                 </div>
             </div>
         </td>
     </tr>
-    <tr>
+<!--    <tr>
         <th>Frameworks</th>
         <th>Development tools</th>
     </tr>
@@ -86,18 +76,13 @@ Hi there, I'm Mikołaj 👋
                 <div>
                     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"
                          height=25>
+</br>
                     <img src="https://img.shields.io/badge/hibernate-%23bbae79.svg?&style=for-the-badge&logo=hibernate&logoColor=white"
                          height=25>
-                </div>
-            </div>
-            <div align='center'>
-                <div>
+</br>
                     <img src="https://img.shields.io/badge/play%20pramework-%2392d13d.svg?&style=for-the-badge&logo=play%20pramework&logoColor=white"
                          height=25>
-                </div>
-            </div>
-            <div align='center'>
-                <div>
+</br>
                     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"
                          height=25>
                 </div>
@@ -155,7 +140,7 @@ Hi there, I'm Mikołaj 👋
                 </div>  
             </div>
         </td>
-    </tr>
+    </tr>-->
 </table>
 
 <!--

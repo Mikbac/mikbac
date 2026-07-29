@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="28" role="img" aria-label="SCRUM.ORG">
+    <title>SCRUM.ORG</title>
+    <g shape-rendering="crispEdges">
+        <rect width="200" height="28" fill="#415870"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+       text-rendering="geometricPrecision" font-size="100">
+        <text transform="scale(.1)" x="1000" y="175" textLength="782.5" font-weight="bold">SCRUM.ORG</text>
+    </g>
+</svg>
