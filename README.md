@@ -60,7 +60,7 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
                     </br>
                     <img src="img/db/mysql.svg" width="125" height=25>
                     </br>
-                    <img src="img/db/mongo.svg" width="150" height="25">
+                    <img src="img/db/mongo.svg" width="125" height="25">
                     </br>
                     <img src="img/db/firestore.svg" width="125" height=25>
                 </div>
