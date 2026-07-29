@@ -38,17 +38,17 @@ modern technologies. Feel free to look at my GitHub profile and tech stack.**
         <td>
             <div align='center'>
                 <div>
-                    <img src="img/programming_languages/java.svg" width="125" height=25 alt="Java">
+                    <img src="img/programming_languages/java.svg" style="pointer-events: none;" width="125" height=25 alt="Java">
                     </br>
-                    <img src="img/programming_languages/go.svg" width="125" height=25 alt="Go">
+                    <img src="img/programming_languages/go.svg" style="pointer-events: none;" width="125" height=25 alt="Go">
                     </br>
-                    <img src="img/programming_languages/python.svg" width="125" height=25 alt="Python">
+                    <img src="img/programming_languages/python.svg" style="pointer-events: none;" width="125" height=25 alt="Python">
                     </br>
-                    <img src="img/programming_languages/cpp.svg" width="125" height=25 alt="C++">
+                    <img src="img/programming_languages/cpp.svg" style="pointer-events: none;" width="125" height=25 alt="C++">
                     </br>
-                    <img src="img/programming_languages/typescript.svg" width="125" height=25 alt="TypeScript">
+                    <img src="img/programming_languages/typescript.svg" style="pointer-events: none;" width="125" height=25 alt="TypeScript">
                     </br>
-                    <img src="img/programming_languages/javascript.svg" width="125" height=25 alt="JavaScript">
+                    <img src="img/programming_languages/javascript.svg" style="pointer-events: none;" width="125" height=25 alt="JavaScript">
                 </div>
             </div>
         </td>
